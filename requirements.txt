@@ -2,3 +2,5 @@ boto3[crt]
 tqdm
 pymysql
 sqlalchemy
+fastapi
+uvicorn[standard]
